@@ -1,0 +1,57 @@
+Sender: Nicole Lam (nicolelam@gmail.com)
+To: vinnysu@gmail.com
+BCC: mikex@gmail.com
+Subject: Dinner Plans
+
+Hey Vinny,
+
+I hope you're well. I thought we could have dinner at 7:30 PM.
+Address: 516 E William St, Ann Arbor, MI 48104
+What do you think?
+
+Cheers,
+Nicole
+(555)765-4321
+
+-----
+
+Sender: Vinny Su (vinnysu@gmail.com)
+To: nicolelam@gmail.com
+Subject: Re: Dinner Plans
+
+Hi Nicole,
+
+Sure, dinner sounds great! Why not we meet at Michigan Union at 7pm?
+The location is: 530 S State St, Ann Arbor, MI 48109
+
+Best,
+Vinny
+666-555-1111
+
+-----
+
+Sender: Nicole Lam (nicolelam@gmail.com)
+To: mikex@gmail.com
+Subject: Fwd: Re: Dinner Plans
+
+Hi Mike,
+
+I got Vinny out. Just do your job.
+I will be at 347 Maynard St, Ann Arbor, MI 48104 waiting for picking you up at 7:10 PM.
+
+Bests,
+Nicole
+(888)765 4321
+
+-----
+
+Sender: Mike X (mikex@gmail.com)
+To: nicolelam@gmail.com
+Subject: Re: Do your thing
+
+Hi Nicole,
+
+Got it. Let's meet at 1931 Duffield St, Ann Arbor, MI 48109 then.
+
+Mike
+608 901 2345
